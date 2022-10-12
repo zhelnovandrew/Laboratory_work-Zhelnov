@@ -20,3 +20,7 @@
 Ответ на выбранный билет
 
 [Билет №08](https://github.com/stankin/inet-2022/wiki/exam08#%D0%B1%D0%B8%D0%BB%D0%B5%D1%82-8)
+## ✅Проект
+Команда "Пушистики"
+
+[Ссылка на страницу проекта](https://github.com/zhelnovandrew/IT_Project)
