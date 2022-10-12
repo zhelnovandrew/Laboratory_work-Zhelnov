@@ -13,7 +13,7 @@
 ## Лабораторная работа №2
 Разработка простого веб-приложения (html,css,js + json,xml):
 
-[ТУТ](https://zhelnovandrew.github.io/Laboratory_work-Zhelnov/pages/lab2.html)
+[Ссылка на веб-приложение](https://zhelnovandrew.github.io/Laboratory_work-Zhelnov/pages/lab2.html)
 ## Лабораторная работа №3
 Настройка локальной сети передачи данных:
 ## Экзаменационный билет №08
