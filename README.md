@@ -8,8 +8,9 @@
 5. Размещение странички на хостинге [ТУТ](https://zhelnovandrew.github.io/Laboratory_work-Zhelnov/)
 
 ## Лабораторная работа №2
-Разработка простого веб-приложения (html,css,js + json,xml) 
+Разработка простого веб-приложения (html,css,js + json,xml):
 1. [ТУТ](https://zhelnovandrew.github.io/Laboratory_work-Zhelnov/pages/lab2.html)
 ## Лабораторная работа №3
+Настройка локальной сети передачи данных:
 ## Экзаменационный билет №08
 Ответ на экзаменационный билет 08 [ТУТ](https://github.com/stankin/inet-2022/wiki/exam08#%D0%B1%D0%B8%D0%BB%D0%B5%D1%82-8)
