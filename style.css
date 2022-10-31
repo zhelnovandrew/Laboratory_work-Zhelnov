@@ -1,0 +1,108 @@
+body {
+ 
+    background-position: center center; 
+    background-repeat: no-repeat;  
+    background-attachment: fixed; 
+    background-size: cover;   
+   
+}
+
+p {
+    text-align: center;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.one{
+    text-align: center;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+    background: #FFF0F5;
+    border: 1px solid #e2e2e2;
+    margin: 75px;
+}
+div.panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+}
+
+h1 {
+    font-family: "Roboto Slab", Georgia, "Times New Roman", Times, serif;
+    position: relative;
+    color: #BC8F8F;
+    display: inline-block;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    font-size: 2em;
+    padding: 11px 60px;
+    margin: 0;
+    line-height: 1;
+
+}
+
+h2 {
+    text-align: center;
+    color:  #BC8F8F;
+    font-size: 28px;
+    font-family: "Roboto Slab", Georgia, "Times New Roman", Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+
+h3 {
+    text-align: center;
+    color:  #000000;
+    font-size: 22px;
+    font-family: "Roboto Slab", Georgia, "Times New Roman", Times, serif;
+    font-style: italic;
+    font-weight: bold;
+
+}
+details > summary {
+    padding: 5px;
+    background-color: #edd7de;
+    color: #000000bf;
+    border: 1px #ccc solid;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    list-style-type: disc;  /* задаем маркер*/
+}
+
+details > div {
+    border: 1px #ccc solid;
+    padding: 10px;
+}
+
+details[open] > summary {
+color:#eee; 
+background-color:#bc8f8fbf;
+}
+
+
+
+div.panel {
+    padding: 0 18px;
+    display: none;
+    background-color: white;
+}
+
+
+#parentcanvas {
+display: -webkit-flex;
+display: -moz-flex;
+display: -ms-flex;
+display: -o-flex;
+display: flex;
+justify-content: center;
+-ms-align-items: center;
+align-items: center;
+}
