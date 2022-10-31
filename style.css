@@ -45,25 +45,17 @@ h1 {
 }
 
 h2 {
-    text-align: center;
-    color:  #BC8F8F;
-    font-size: 28px;
-    font-family: "Roboto Slab", Georgia, "Times New Roman", Times, serif;
-    font-style: italic;
-    font-weight: bold;
+     font-family: "Roboto Slab", Georgia, "Times New Roman", Times, serif;
+    position: relative;
+    color: #000000;
+    display: inline-block;
+    border: 2px solid #000;
+    font-size: 2em;
+    padding: 11px 60px;
+    margin: 0;
+    line-height: 1;
 }
 
-
-
-h3 {
-    text-align: center;
-    color:  #008B8B;
-    font-size: 22px;
-    font-family: "Roboto Slab", Georgia, "Times New Roman", Times, serif;
-    font-style: italic;
-    font-weight: bold;
-
-}
 details > summary {
     padding: 5px;
     background-color: #edd7de;
