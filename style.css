@@ -67,7 +67,7 @@ details > summary {
     font-weight: bold;
     list-style-type: disc;  /* задаем маркер*/
     position: relative;
-    top 400px;
+    top: 400px;
 }
 
 details > div {
