@@ -15,7 +15,9 @@ p {
 
 }
 .one{
-    text-align: right;
+    position: absolute;
+    top: 0;
+    left: 30%;
 }
 
 div.panel {
