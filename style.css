@@ -27,8 +27,8 @@ div.panel {
 h1 {
     font-family: "Roboto Slab", Georgia, "Times New Roman", Times, serif;
     position: relative;
-    top: -20px;
-    left: -100px;
+    top: -100px;
+    left: -500px;
     color: #000000;
     display: inline-block;
     border: 2px solid #000;
