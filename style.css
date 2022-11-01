@@ -19,7 +19,7 @@ p1 {
     text-align: center;
     position: relative;
     top: 460px; 
-    left: 550px;
+    left: 530px;
     font-size: 17px;
     font-style: normal;
     font-weight: bold;
@@ -74,7 +74,7 @@ h2 {
 
 details > summary {
     position: relative;
-    top: 70px;
+    top: 150px;
     padding: 5px;
     background-color: #FFFFFF;
     color: #000000;
