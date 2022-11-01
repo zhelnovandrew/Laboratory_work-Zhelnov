@@ -63,8 +63,6 @@ details > summary {
     border: thick double #32a1ce;
     cursor: pointer;
     font-size: 20px;
-    position: absolute;
-    top: 50%;
     font-family: "Lucida Console", "Courier New", monospace;
     font-weight: bold;
     list-style-type: disc;  /* задаем маркер*/
