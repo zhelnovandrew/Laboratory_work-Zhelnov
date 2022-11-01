@@ -17,6 +17,8 @@ p {
 
 p1 {
     text-align: center;
+    position: relative;
+    top: 100px; left: 150px;
     font-size: 17px;
     font-style: normal;
     font-weight: bold;
