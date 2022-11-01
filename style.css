@@ -15,6 +15,16 @@ p {
 
 }
 
+p1 {
+    text-align: center;
+    position: relative;
+    top: 370px;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: bold;
+
+}
+
 .one{
     position: absolute;
     top: 2%;
@@ -84,16 +94,6 @@ color:#FFFFFF;
 background-color:#000080;
 }
 
-
-p1 {
-    text-align: center;
-    position: relative;
-    top: 400px;
-    font-size: 17px;
-    font-style: normal;
-    font-weight: bold;
-
-}
 
 div.panel {
     padding: 0 18px;
