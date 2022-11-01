@@ -18,7 +18,8 @@ p {
 p1 {
     text-align: center;
     position: relative;
-    top: 500px; left: 700px;
+    top: 500px; 
+    left: 600px;
     font-size: 17px;
     font-style: normal;
     font-weight: bold;
@@ -81,8 +82,6 @@ details > summary {
     font-family: "Lucida Console", "Courier New", monospace;
     font-weight: bold;
     list-style-type: disc;  /* задаем маркер*/
-    position: relative;
-    top: 120px;
 }
 
 details > div {
