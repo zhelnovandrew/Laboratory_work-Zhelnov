@@ -17,7 +17,7 @@ p {
 }
 .one{
     position: absolute;
-    top: 0;
+    top: 2%;
     left: 80%;
 }
 
@@ -29,9 +29,9 @@ div.panel {
 
 h1 {
     font-family: "Roboto Slab", Georgia, "Times New Roman", Times, serif;
-    position: relative;
-    top: -5px;
-    left: -500px;
+    position: absolute;
+    top: 2%;
+    left: 10%;
     color: #000000;
     display: inline-block;
     border: 2px solid #000;
@@ -44,7 +44,9 @@ h1 {
 
 h2 {
      font-family: "Roboto Slab", Georgia, "Times New Roman", Times, serif;
-    position: relative;
+    position: absolute;
+    top: 15%;
+    left: 10%;
     color: #000000;
     display: inline-block;
     border: 2px solid #000;
