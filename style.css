@@ -3,7 +3,7 @@ body {
 background-repeat: no-repeat;
 background-position: center center;
 background-attachment: fixed;
-background-size: 50% auto;
+background-size: 40% auto;
    
 }
 
@@ -34,6 +34,7 @@ div.panel {
 h1 {
     font-family: "Roboto Slab", Georgia, "Times New Roman", Times, serif;
     position: relative;
+    left: -60px;
     color: #000000;
     display: inline-block;
     border: 2px solid #000;
