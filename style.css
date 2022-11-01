@@ -92,6 +92,8 @@ details > div {
 }
 
 details[open] > summary {
+position: relative;
+top: 150px;
 color:#FFFFFF; 
 background-color:#000080;
 }
