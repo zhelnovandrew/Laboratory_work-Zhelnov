@@ -76,8 +76,8 @@ details > div {
 }
 
 details[open] > summary {
-color:#eee; 
-background-color:#bc8f8fbf;
+color:#FFFFFF; 
+background-color:#000080;
 }
 
 
