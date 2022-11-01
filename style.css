@@ -1,5 +1,5 @@
 body {
-background-image="fon.jpg";
+background-image src="fon.jpg";
 background-repeat: no-repeat;
 background-position: center;
 background-attachment: fixed;
