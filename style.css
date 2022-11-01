@@ -1,8 +1,12 @@
-#image-div {
-background-image: url(https://github.com/zhelnovandrew/Laboratory_work-Zhelnov/blob/main/fon.jpg), url(https://github.com/zhelnovandrew/Laboratory_work-Zhelnov/blob/main/fon.jpg);
-background-position: right bottom, left top;
-background-repeat: no-repeat, repeat;
+body {
+background-image: url(https://github.com/zhelnovandrew/Laboratory_work-Zhelnov/blob/main/fon.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+   
 }
+
 p {
     text-align: center;
     font-size: 40px;
