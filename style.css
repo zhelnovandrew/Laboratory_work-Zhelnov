@@ -74,7 +74,7 @@ h2 {
 
 details > summary {
     position: relative;
-    top: 110px;
+    top: 115px;
     padding: 5px;
     background-color: #FFFFFF;
     color: #000000;
@@ -93,14 +93,14 @@ details > div {
 
 details[open] > summary {
 position: relative;
-top: 110px;
+top: 115px;
 color:#FFFFFF; 
 background-color:#000080;
 }
 
 li {
     position: relative;
-    top: 110px;
+    top: 115px;
 }
 
 div.panel {
