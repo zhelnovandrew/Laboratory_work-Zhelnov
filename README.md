@@ -26,6 +26,8 @@
 
 [Билет №08](https://github.com/stankin/inet-2022/wiki/exam08#%D0%B1%D0%B8%D0%BB%D0%B5%D1%82-8)
 
+## ✅Примечания
+В некоторых браузерах может на отображаться фон личной страницы лабораторной работы №1 (см. файл [oblozhka](https://github.com/stankin/inet-2022/wiki/exam08#%D0%B1%D0%B8%D0%BB%D0%B5%D1%82-8)
 
 
 
