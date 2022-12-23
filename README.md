@@ -8,6 +8,7 @@
 5. Размещение странички на хостинге 
 
 Результаты работы:
+
 [Ссылка на личный репозиторий](https://github.com/zhelnovandrew/Laboratory_work-Zhelnov)
 
 [Ссылка на личную страницу](https://zhelnovandrew.github.io/Laboratory_work-Zhelnov/)
@@ -17,6 +18,7 @@
 Работа была выполнена в команде "Пушистики".
 
 Результаты работы:
+
 [Ссылка на репозиторий проекта](https://github.com/zhelnovandrew/IT_Project)
 
 [Ссылка на страницу проекта](http://pyshok.tilda.ws/)
