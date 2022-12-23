@@ -36,7 +36,7 @@
 [Билет №08](https://github.com/stankin/inet-2022/wiki/exam08#%D0%B1%D0%B8%D0%BB%D0%B5%D1%82-8)
 
 Индивидуальный вклад:  
-[Разница ревизий](https://github.com/stankin/inet-2022/wiki/exam08#%D0%B1%D0%B8%D0%BB%D0%B5%D1%82-8)
+[Сравнение ревизий](https://github.com/stankin/inet-2022/wiki/exam08/_compare/811a0cb27d279780cc9a6f51712ae5b27f3ebb02...0dc7f26c2c41acd280ed7f2262b82ee2e51ffcfe)
 ## 🎁Примечания
 В некоторых браузерах может на отображаться фон личной страницы лабораторной работы №1 (см. файл [oblozhka](https://github.com/zhelnovandrew/Laboratory_work-Zhelnov/blob/main/oblozhka.png))
 
